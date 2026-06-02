@@ -2,6 +2,10 @@
 
 terraform init 
 
+## Diagram
+Diagram
+images/drawing.png
+
 ## Format and validate 
 
 terraform fmt -check -recursive 
