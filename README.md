@@ -6,7 +6,7 @@ terraform init
 
 Diagram
 
-![Project Screenshot](../images/drawing.png)
+![Project Screenshot](images/drawing.png)
 
 ## Format and validate 
 
